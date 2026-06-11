@@ -70,17 +70,17 @@ def show_home():
         <div style="background:#f8f9ff; border-radius:12px; padding:1.5rem;
                     border-left:4px solid #667eea;">
             <table style="width:100%; font-size:0.95rem; border-collapse:collapse;">
-                <tr><td style="padding:4px 0;"><b>Nama</b></td>
+                <tr><td style="padding:4px 0;"><b> Nama</b></td>
                     <td>: Aliffia Humairah</td></tr>
-                <tr><td style="padding:4px 0;"><b>NIM</b></td>
+                <tr><td style="padding:4px 0;"><b> NIM</b></td>
                     <td>: 2311531004</td></tr>
-                <tr><td style="padding:4px 0;"><b>Prodi</b></td>
+                <tr><td style="padding:4px 0;"><b> Prodi</b></td>
                     <td>: Informatika</td></tr>
-                <tr><td style="padding:4px 0;"><b>Matkul</b></td>
+                <tr><td style="padding:4px 0;"><b> Matkul</b></td>
                     <td>: DIF60202 Image Processing</td></tr>
-                <tr><td style="padding:4px 0;"><b>Dosen</b></td>
+                <tr><td style="padding:4px 0;"><b> Dosen</b></td>
                     <td>: Derisma, MT</td></tr>
-                <tr><td style="padding:4px 0;"><b>Semester</b></td>
+                <tr><td style="padding:4px 0;"><b> Semester</b></td>
                     <td>: Genap 2025/2026</td></tr>
             </table>
         </div>
